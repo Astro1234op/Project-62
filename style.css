@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    
+}
+img{
+    width: 300px;
+    height: 300px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    
+    
+}
+#mycarousel{
+    background-image: linear-gradient(to right, red, yellow);
+    
+}
+p{
+    color: white;
+    font-family: monospace;
+    
+}
